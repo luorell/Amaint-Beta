@@ -1,0 +1,6 @@
+{
+  "name": "Amaint Industrial CMMS",
+  "description": "Sistema de gestión de mantenimiento industrial (CMMS), monitoreo de confiabilidad RAMS, gestión de OTs, control de pañol/repuestos y escáner QR offline.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
